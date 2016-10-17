@@ -64,7 +64,8 @@ require(gdata)
 ##  $ SALE.DATE                     : Factor w/ 301 levels "","1/1/2016",..: 275 275 85 260 229 135 10 118 
 
 ```
-image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Sale Price Histogram.PNG)
+
+ ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Sale Price Histogram.PNG)
 
 
 image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Histogram less 1.8M.PNG)
