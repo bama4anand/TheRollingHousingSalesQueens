@@ -66,15 +66,12 @@ require(gdata)
 ```
 
 
+![](Pictures/Sale_Price_Histogram.png)<!-- -->
+![](Pictures/Histogram_Less_1.8M.png)<!-- -->
 ![](Pictures/Default_Plot.png)<!-- -->
-
-image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Histogram less 1.8M.PNG)
-
-
-image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\default plot.PNG)
+![](Pictures/Plot_Log.png)<!-- -->
 
 
-image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Plot Log.PNG)
 
 #**Cleaning The Data** 
 
@@ -86,10 +83,11 @@ image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueen
 
 ###By plotting the log of 1, 2, and 3-family dwelling data, it is observed there is an exponential relationship between sale price and gross sqft. As gross sqft increases exponentially, sale price does as well. The plots of log data also provide clear indication that the original data had many outliers. By removing the outliers, only valid data can be reviewed further. While the example code author chose to remove the outliers from the original data.
 
-image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Plot with.PNG)
 
 
-image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Plot without.PNG)
+![](Pictures/Plot_With.png)<!-- -->
+![](Pictures/Plot_Without.png)<!-- -->
+
 
 
 
