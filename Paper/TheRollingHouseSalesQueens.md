@@ -65,7 +65,7 @@ require(gdata)
 
 ```
 
-image: ![] (bama4anand\TheRollingHousingSalesQueens\blob\master\Paper\Pictures\Default_Plot.PNG)
+image: ![] (bama4anand/TheRollingHousingSalesQueens/blob/master/Paper/Pictures/Default_Plot.PNG)
 
 
 image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Histogram less 1.8M.PNG)
