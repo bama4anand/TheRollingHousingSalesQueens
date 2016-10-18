@@ -67,8 +67,17 @@ require(gdata)
 
 
 ![](Pictures/Sale_Price_Histogram.png)<!-- -->
-![](Pictures/Histogram_Less_1.8M.png)<!-- -->
+
+
+
+![](Pictures/Histogram_less_1.8M.png)<!-- -->
+
+
+
 ![](Pictures/Default_Plot.png)<!-- -->
+
+
+
 ![](Pictures/Plot_Log.png)<!-- -->
 
 
@@ -85,7 +94,10 @@ require(gdata)
 
 
 
-![](Pictures/Plot_With.png)<!-- -->
+![](Pictures/Plot_with.png)<!-- -->
+
+
+
 ![](Pictures/Plot_Without.png)<!-- -->
 
 
