@@ -65,7 +65,7 @@ require(gdata)
 
 ```
 
-image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Sale Price Histogram.PNG?raw=true)
+image: ![](https://github.com/bama4anand/TheRollingHousingSalesQueens/blob/master/Paper/Pictures/Default Plot.PNG)
 
 
 image: ![](C:\Users\GTX8WNS\Desktop\DoingDataScience\TheRollingHousingSalesQueens\Histogram less 1.8M.PNG)
