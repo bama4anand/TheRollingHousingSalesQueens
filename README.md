@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "Bama Parthasarathy"
+author: "Bama Parthasarathy, Hassan Azhar, Laura Jarzombek and Oral Fredric"
 date: "October 16, 2016"
 output: html_document
 ---
