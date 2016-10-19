@@ -13,11 +13,9 @@ library(gdata)
 #Setting upo the directory
 setwd("D:\Dropbox\SMU\+MSDS 6306 DOING DATA SCIENCE\Group Assignment\")
 
-#Reading the Queens Sales data 
+#Reading the Queens Sales data and setting into variable BK. Leaving 4 values and 
 
 bk <- read.csv("rollingsales_queens.csv",skip=4,header=TRUE)
-
-# So, save the file as a csv and use read.csv instead
 
 ## Check the data
 
