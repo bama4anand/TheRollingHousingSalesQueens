@@ -1,6 +1,6 @@
 ---
   title: "RollingHouseSalesQueens"
-author: "Bama Parthasarathy"
+author: "Bama Parthasarathy, Hassan Azhar, Laura Jarzombek and Oral Fredric"
 date: "October 16, 2016"
 output: html_document
 ---
@@ -9,7 +9,7 @@ output: html_document
   #require(gdata)
   #require(plyr) #Added by Monnie McGee
   #install the gdata and plyr packages and load in to R.
-  library(plyr)
+library(plyr)
 library(gdata)
 setwd("C:\\Users\\GTX8WNS\\Desktop\\DoingDataScience")
 
