@@ -1,21 +1,20 @@
 ---
-  title: "RollingHouseSalesQueens"
+title: "RollingHouseSalesQueens"
 author: "Bama Parthasarathy, Hassan Azhar, Laura Jarzombek and Oral Fredric"
 date: "October 16, 2016"
 output: html_document
 ---
   
   
-  #require(gdata)
-  #require(plyr) #Added by Monnie McGee
-  #install the gdata and plyr packages and load in to R.
+#Loading the required library gdata and plyr packages in to R.
 library(plyr)
 library(gdata)
-setwd("C:\\Users\\GTX8WNS\\Desktop\\DoingDataScience")
 
+#Setting upo the directory
+setwd("D:\Dropbox\SMU\+MSDS 6306 DOING DATA SCIENCE\Group Assignment\")
 
-## You need a perl interpreter to do this on Windows.
-## It's automatic in Mac
+#Reading the Queens Sales data 
+
 bk <- read.csv("rollingsales_queens.csv",skip=4,header=TRUE)
 
 # So, save the file as a csv and use read.csv instead
